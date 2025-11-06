@@ -49,6 +49,5 @@ This case study models an online/mobile ordering system from **customers → car
 ---
 
 ## Notes
-- **Source of truth:** PDFs in `/docs`. Images in `/model` are exported previews.  
-- **License:** MIT (or your choice).  
+- **Source of truth:** PDFs in `/docs`. Images in `/model` are exported previews.    
 - **Contact:** Jacob Goodman · RIT — MIS (GIS Immersion) · [jkg9629@rit.edu] · [www.linkedin.com/in/jacob-goodman585]

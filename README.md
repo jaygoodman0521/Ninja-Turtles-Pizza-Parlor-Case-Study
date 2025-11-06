@@ -72,7 +72,7 @@ Flip /docs/05_UI_Prototype_Deck.pdf to see the user journey and admin/inventory 
 
 **My role & contributions**
 
-Led ERD design; drafted core use cases; standardized keys & status enums
+**Inventory Management & 3rd Party Vedor Portal**: Led ERD design; drafted core use cases; standardized keys & designed 3rd party vendor portal for mobile app and website.
 
 Documented data quality rules and reconciliation steps
 
